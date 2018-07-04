@@ -12,7 +12,6 @@ new G.resCategories={
         'animals':{
             name:'Animals',
             base:[],
-            side:['population','worker','happiness','health','land','coin'],
         },
 };
  
