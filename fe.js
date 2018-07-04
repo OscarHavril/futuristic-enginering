@@ -30,3 +30,5 @@ new G.Tech({
         cost:{'insight':15},
         req:{'cooking':true},
     });
+}
+});
