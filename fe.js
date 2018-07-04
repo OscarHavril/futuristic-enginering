@@ -14,6 +14,7 @@ new G.resCategories={
             base:[],
             side:['population','worker','happiness','health','land','coin'],
         },
+};
  
 new G.Tech({
         name:'[FE]Animals',
