@@ -3,7 +3,7 @@ name:'Futuristic Enginering',
 author:'OscarHavril ',
 desc:'A big mod that add a lot of various things',
 engineVersion:1,
-manifest:'https://rawgit.com/OscarHavril/futuristic-enginering/master/feManifest.js'
+manifest:'https://rawgit.com/OscarHavril/futuristic-enginering/master/feManifest.js',
 requires:['Default dataset*'],
 sheets:{'feSheet':'https://raw.githubusercontent.com/Generatoror/hello-world/master/sprits.png'},//custom stylesheet (note : broken in IE and Edge for the time being) Note 2: Edit this too !
 func:function()
